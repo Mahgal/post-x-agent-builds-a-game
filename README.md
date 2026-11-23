@@ -1,8 +1,10 @@
 # The agent builds a game from one prompt
 
-[![make.fun](https://make.fun/badge/competition/post-x-the-agent-builds-a-game-from-20261122-1709)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
-[![make.fun](https://make.fun/badge/entry/post-x-the-agent-builds-a-game-from-20261122-1709)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
-[![make.fun](https://make.fun/badge/referral/6d6dq8sh)](https://make.fun/r/6d6dq8sh)
+[![make.fun · post-x-the-agent-builds-a-game-from-20261122-1709](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![rank](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/Mahgal/post-x-agent-builds-a-game/rank.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![reward](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/Mahgal/post-x-agent-builds-a-game/reward.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+
+Built for the make.fun bounty.
 
 An AI coding agent builds a tiny browser game from one prompt while you watch — and the finished game is right here in this repository.
 
